@@ -1,2 +1,0 @@
-# kongpyang
-my personal site
